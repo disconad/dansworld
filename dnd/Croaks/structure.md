@@ -1,16 +1,4 @@
-# Make your way to the second town
-
-The band has an estimated five days of travel by foot on the roadway, but the show is in three days. 
-
-# Options in the town
-
-## Rental
-There are two people in the town that will rent horses. 
-Rental requires a positive reputation in the area.
-
-
 ## Town structures
-Creating a town structure for each village your DND party travels to is a great way to add depth and immersion to your campaign world. Incorporating a band reputation scale from -10 to 10 adds an interesting dynamic as well. Here's a step-by-step guide to help you plan the town structure and reputation tracking:
 
 **1. Village Classification:**
 - Determine the size and importance of each village. Are they simple hamlets, thriving market towns, or something in between?
