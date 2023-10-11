@@ -53,14 +53,7 @@ Design the core components of each village:
 
 Remember, the goal is to enhance immersion and player engagement. By creating unique village structures and a reputation system that reacts to the party's choices, you'll provide your players with a richer and more interactive DND experience.
 
-## Travel from Willowbrook to Silverbrook
-Certainly! Placing Silverbrook approximately 5 days of foot travel away from Willowbrook adds depth to your world and allows for a reasonable distance between the two villages. This distance provides your players with opportunities for exploration, encounters, and side quests during their journey. It also allows you to establish the travel time and potential obstacles they might face on the way.
-
-You can customize the journey to make it more engaging. Here's a general breakdown of what the journey might entail:
-
-No problem at all! Let's set Silverglade as 5 days of foot travel away from Willowbrook. Here's how the journey might look:
-
-**Travel Route: Willowbrook to Silverglade (150 miles)**
+## Travel Route: Willowbrook to Silverglade (150 miles)**
 
 **Day 1-2**: Departure and Open Fields
 - The party leaves Willowbrook and travels through the familiar farmlands and open fields.
@@ -80,7 +73,7 @@ No problem at all! Let's set Silverglade as 5 days of foot travel away from Will
 By positioning Silverglade 5 days of foot travel away from Willowbrook, you allow for a journey that provides various opportunities for exploration, encounters, and role-playing. This setup helps establish the distance between the two villages and creates a sense of a larger, interconnected world for your players to explore. Feel free to adapt the details to suit your campaign's themes and narrative.
 
 
-**Travel Route: Silverglade to Stonehaven (100 miles)**
+## Travel Route: Silverglade to Stonehaven (100 miles)**
 
 **Day 1**: Departure from Silverglade
 - The party leaves Silverglade, using the well-maintained road that leads inland.
