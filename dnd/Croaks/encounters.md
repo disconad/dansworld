@@ -76,3 +76,22 @@ Navigating the fog can lead to potential encounters or strange occurrences, such
 Seeking shelter may delay their journey, but they could discover valuable information or meet interesting NPCs in the shelter they find.
 
 Investigating the symbols may uncover the fog's source, enabling the party to dispel it or use it for their advantage, depending on its nature.
+
+### Glimpses of Shadowy Figures:
+
+As the party navigates through the dense fog, they hear whispering voices and catch fleeting glimpses of shadowy figures moving around them. These shadowy figures are apparitions of the fog, created by its supernatural properties. They can be hostile, causing the party to engage in combat.
+
+**Enemies**:
+
+Shadowy Figures (Custom, CR 1/4 each)
+Combat Environment:
+
+The combat takes place within the thick fog, reducing visibility to a few feet in all directions.
+The shadowy figures can appear and disappear at will, making them difficult to target.
+Tactics:
+
+The shadowy figures use hit-and-run tactics, attacking from the fog and then fading away.
+They might attempt to engulf or drain the life force of party members.
+Rewards:
+
+Defeating the shadowy figures grants experience points and might reveal clues about the fog's nature.

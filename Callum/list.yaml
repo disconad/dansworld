@@ -1,0 +1,139 @@
+Total Practise:
+  Dad_Cool:
+    Vehicles:
+
+      Vehicle1:
+        Colour: blue
+        Model:
+          Name: Corvette
+          Model: 1995
+        Transmission : Manual
+        Price: $20,000
+
+      Vehicle2:
+        Colour: red
+        Model:
+          Name: Corvette
+          Model: 1995
+        Transmission : Manual
+       Price: $22,000
+
+      Vehicle3:
+        Colour: Orange
+        Model:
+          Name: Toyota
+          Model: 2009
+        Transmission : Auto
+        Price: $12,500
+
+      Vehicle4:
+        Colour: Pink
+        Model: 
+          Name: Honda
+          Model: 2001
+        Transmission : Manual
+        Price: $9,150
+
+      Vehicle5:
+        Colour: Gray
+        Model:
+          Name: Decepticon
+          Model: 27 BC
+        Transmission : Manual
+        Price: $2,700,999
+
+    Banana: 
+
+      Fat: 27 
+      Carbs: 0,4 g
+      Sugar: 4 g
+      Calories: 105 
+
+    Fruits:
+
+      Grapes
+      Bananas
+      Coconuts
+
+    Inventory Formats:
+
+      INI Format:
+        [webservers]
+          web1.example.com
+          web2.example.com
+
+        [dbservers]
+          db1.example.com
+          bd2.example.com
+      YMAL Format:
+        All:
+          Children:
+            Webservers:
+              Host:
+                Web1.example.com
+                Web2.example.com
+
+            Dbservers:
+              Host:
+                Db1.example.com
+                Db2.example.com  
+
+    Server Grouping:
+
+      Web Servers:
+        Web Servers US:
+          Server.Example1
+          Server.Example2
+
+        Web Servers EU:
+          Server.Example1
+          Server.Example2
+
+        Web Servers IN:
+          Server.Example1
+          Server.Example2
+
+    Grouping & Parent Child Relationship:
+
+      All:
+        Children:
+          Webservers:
+            Children:
+              Webservers_US:
+                Hosts:
+                  Server1.US.com:
+                    Ansible_Host: 1.2.3.4
+                  Server2.US.com:
+                    Ansible_Host: 1.2.3.4
+          
+              Webservers_EU:
+                Hosts:
+                  Server1.EU.com:
+                    Ansible_Host: 1.2.3.4
+                  Server2.EU.com:
+                    Ansible_Host: 1.2.3.4
+
+    Name: Set Firewall Configurations
+      Hosts: Web
+      Tasks:
+        Firewalld:
+          Service: https
+          Permenant: True
+          State: Enabled
+
+        Firewalld:
+          Port: 8081/tcp
+          Permenant: True
+          State: Disabled
+
+        Firewalld:
+          Port: 161-162/udp
+          Permenant: True 
+          State: Disabled
+
+        Firewalld:
+          Source: 192.0.2.0/24
+          Zone: Internal
+          State: Enabled
+
+    
