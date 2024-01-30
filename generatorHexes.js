@@ -1,0 +1,71 @@
+const AdjacencyMap = { 
+    Arctic: {
+        Pastoral: 4,
+        Forest: 5,
+        Arctic: 23,
+        Mountains: 4,
+    },
+    Desert: {
+        Ocean: 1,
+        Pastoral: 3,
+        Desert: 22,
+        Steppes: 3,
+        Mountains: 4,
+    },
+    Forest: {
+        Pastoral: 6,
+        Forest: 23,
+        Swamp: 3,
+        Steppes: 2,
+        Mountains: 4,
+    },
+    Jungle: {
+        Ocean: 1,
+        Steppes: 6,
+        Forest: 2,
+        Swamp: 3,
+        Jungle: 18,
+        Pastoral: 2,
+        Mountains: 4,
+    },
+    Mountains: {
+        Ocean: 1,
+        Pastoral: 3,
+        Desert: 2,
+        Steppes: 3,
+        Mountains: 19,
+        Arctic: 1,
+        Forest: 4,
+    },
+    Ocean: {
+        Ocean: 34,
+        Swamp: 1,
+        Steppes: 1,
+    },
+    Pastoral:   {
+        Ocean: 1,
+        Pastoral: 17,
+        Mountains: 4,
+        Swamp:  4,
+        Forest: 4,
+        Desert: 2,
+        Steppes: 4,
+    },
+    Steppes: {
+        Ocean: 1,
+        Forest: 1,
+        Steppes: 18,
+        Mountains: 8,
+        Pastoral: 4,
+        Desert: 2,
+    },
+    Swamp: {
+        Ocean: 1, 
+        Forest: 6,
+        Steppes: 10,
+        Pastoral: 6,
+        Swamp: 9,
+        Mountains: 4,
+    }
+}
+
