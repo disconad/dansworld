@@ -1,4 +1,4 @@
-Name: Hilda Stoneflask
+*Name*: Hilda Stoneflask
 
 Description: Hilda Stoneflask is a robust and flirtatious dwarf with fiery red hair, a warm smile, and a saucy sense of humor that endears her to patrons of the local tavern in Stonehaven.
 
